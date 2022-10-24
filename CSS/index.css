@@ -1,0 +1,57 @@
+.home{
+    display: flex;
+    flex-direction: row;
+}
+
+.home-h1{
+    position: absolute;
+    font-size: 115px;
+    color: #663128;
+}
+
+.home-img-1{
+    background-color: #FEF4DE;
+    max-width: 1480px;
+    max-height: 1280px;
+    width: auto;
+    height: auto;
+}
+
+.servicos{
+    background-color: #7C4032;
+    align-items: center;
+    text-align: center;
+}
+
+.servicos-h2{     
+    font-family: 'Poppins';
+    font-weight: 900;
+    font-size: 64px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    display: inline-block;
+}
+
+.servicos-img{
+    margin-left: 9%;
+    display: block;
+    align-items: center;
+}
+
+.servicos-button{
+    width: 210px;
+    height: 66px;
+    background: #f3ce5e;
+    border-radius: 57px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    color: #663128;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 24px;
+}
+
+.testemunhas{
+    background-color: #FEF4DE;
+}
