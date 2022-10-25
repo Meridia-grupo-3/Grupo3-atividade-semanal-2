@@ -6,22 +6,3 @@ body{
     font-family: 'Poppins', sans-serif;
     background-color: #7C4032;
 }
-
-.home {
-    overflow: hidden;
-}
-
-.bd-texture {
-    background-color: #FEF4DE;
-    overflow: hidden;
-    width: 100vw;
-    height: 100vh;
-    border-radius: 45%;
-    transform: rotate(4deg);
-}
-
-.bd-texture > img {
-    border-radius: 43%;
-    width: 2200px;
-    height: 1000px;
-}
