@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500;600;700;900&display=swap');
 
+
 body {
     margin: 0;
     padding: 0;
@@ -11,15 +12,15 @@ body {
     text-align: center;
 }
 
-.servicos > h2 {
+.servicos>h2 {
     color: #FFF;
     font-weight: 900;
     font-size: 64px;
 }
 
-.btn-servicos{
+.btn-servicos {
     width: 210px;
-    height: 66px;   
+    height: 66px;
     background-color: #F3C35E;
     border: none;
     border-radius: 57px;
@@ -29,3 +30,114 @@ body {
     margin: 43px;
     box-shadow: 0px 20px 40px rgba(243, 206, 94, 0.2);
 }
+
+/*Donizeti*/
+.testemunhos {
+    position: absolute;
+    color: #7c4032;
+}
+
+.retangulo-1 {
+    box-sizing: border-box;
+    position: absolute;
+    width: 512px;
+    height: 192px;
+    left: 415px;
+    top: 2043px;
+    background: #ffffff;
+    border: 1px solid #7c4032;
+    border-radius: 30px;
+}
+
+.retangulo-2 {
+    box-sizing: border-box;
+    position: absolute;
+    width: 512px;
+    height: 192px;
+    left: 977px;
+    top: 2043px;
+    background: #ffffff;
+    border: 1px solid #7c4032;
+    border-radius: 30px;
+}
+
+.retangulo-3 {
+    box-sizing: border-box;
+    position: absolute;
+    width: 512px;
+    height: 192px;
+    left: 415px;
+    top: 2271px;
+    background: #ffffff;
+    border: 1px solid #7c4032;
+    border-radius: 30px;
+}
+
+.retangulo-4 {
+    box-sizing: border-box;
+    position: absolute;
+    width: 512px;
+    height: 192px;
+    left: 977px;
+    top: 2271px;
+    background: #ffffff;
+    border: 1px solid #7c4032;
+    border-radius: 30px;
+}
+
+.titulo {
+    position: absolute;
+    width: 325px;
+    height: 24px;
+    left: 51px;
+    top: 15px;
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 900;
+    font-size: 16px;
+    line-height: 24px;
+    color: #7c4032;
+}
+
+.comentario {
+    position: absolute;
+    width: 412px;
+    height: 80px;
+    left: 51px;
+    top: 43px;
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    color: #333333;
+}
+
+.imgestrela {
+    top: 160px;
+    position: absolute;
+    left: 51px;
+    z-index: 1;
+}
+
+.botao-test {
+    font-family: "Poppins";
+    font-style: normal;   
+    line-height: 24px;
+    align-items: center;
+    text-align: center;
+    width: 210px;
+    height: 66px;
+    background-color: #F3C35E;
+    border: none;
+    border-radius: 57px;
+    color: #663128;
+    font-weight: 700;
+    font-size: 18px;
+    margin: 43px;
+    box-shadow: 0px 20px 40px rgba(243, 206, 94, 0.2);
+   
+    
+}
+
+/*--*/
