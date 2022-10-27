@@ -127,3 +127,100 @@ section {
     margin: 43px;
     box-shadow: 0px 20px 40px rgba(243, 206, 94, 0.2);
 }
+
+.contact-us{
+    background-color: #FFF;
+}
+
+.contact-us h1{
+    padding-top: 60px;
+    padding-bottom: 30px;
+    position: relative; 
+    font-family: 'Poppins';
+    color: #7C4032;
+    font-size: 64px;
+    line-height: 96px;
+    line-height: 100%;
+    text-align: center;
+    vertical-align: center;
+    
+}
+
+
+.input-usuario input{
+    text-align: center;
+    position: relative; 
+    display: flex;
+    height: 56px;
+    width: 374px;
+    background-color: #E5AF99;
+    border-radius: 61px;
+    border-color: #E5AF99;
+    border: 1px solid pink;
+    margin-bottom: 10px;
+    margin-left: 21%;
+    justify-content:space-around;
+    margin-top: 30px;
+}
+
+.contato-info{
+    position: relative;
+    margin-top: -14.5%;
+}
+
+.input-usuario ul{
+    list-style: none;
+    
+}
+
+.contato-info ul{
+    list-style: none;
+    position: relative;
+    left: 263%;
+    top: -155%;
+    display: flex;
+    display: table-row;
+}
+.contato-info li{
+    padding-bottom: 40px;
+    padding-left: 8px;
+}
+
+.contato-info img{
+
+}
+
+.botao{
+    font-weight: bold;
+    font-family: 'Poppins', sans-serif;
+    position: relative; 
+    margin-bottom: 4%;
+    margin-top: 1%;
+    margin-left: 30%;
+    height: 56px;
+    width: 168px;
+    border-radius: 61px;
+    border-color: #7C4032;
+    border: 3px solid #7C4032;
+    color: #7C4032;
+    background-color: #ffffff;
+    
+}
+
+.informacao-empresarial-rodape-icones{
+    margin-top: 17%;
+    margin-left: 49%;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+
+}
+
+.retangulo-do-rodape{
+    position: absolute;
+    left: 0;
+    bottom: 100;
+    background-color: #7C4032;
+	height: 117px;
+	width: 100%;
+}
