@@ -10,17 +10,22 @@ body {
 .servicos {
     display: flex;
     flex-direction: column;
-    gap: 30px;
+    row-gap: 30px;
     align-items: center;
-    text-align: center;
 }
 
 .servicos > h2 {
+    text-align: center;
     color: #FFF;
     font-weight: 900;
     font-size: 64px;
     margin: 0px;
+}
 
+.servicos > img {
+    width: 75%;
+    height: auto;
+    align-self: center;
 }
 
 .servicos > button {
