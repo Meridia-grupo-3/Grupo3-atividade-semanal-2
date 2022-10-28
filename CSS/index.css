@@ -219,6 +219,7 @@ section {
 
   
 .contact-us{
+    margin-top: -5%;
     background-color: #FFF;
 }
 
@@ -252,11 +253,12 @@ section {
     margin-left: 21%;
     justify-content:space-around;
     margin-top: 30px;
+
 }
 
 .contato-info{
     position: relative;
-    margin-top: -17.5%;
+    margin-top: -14.3%;
 }
 
 .input-usuario ul{
@@ -268,7 +270,7 @@ section {
     list-style: none;
     position: relative;
     left: 263%;
-    top: -155%;
+    top: -165%;
     display: table-row;
 }
 .contato-info li{
@@ -279,22 +281,16 @@ section {
     gap: 10px;
     padding-bottom: 40px;
     padding-left: 8px;
-}
-
-.contato-info img{
-}
-
-
-  
+}  
 
 .botao{
     font-weight: bold;
     font-family: 'Poppins', sans-serif;
     position: relative; 
     margin-bottom: 4%;
-    margin-top: 1%;
+    margin-top: 85px;
     margin-left: 30%;
-    height: 56px;
+    height: 36px;
     width: 168px;
     border-radius: 61px;
     border-color: #7C4032;
